@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<category
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="produits.xsd">
+</category>
+<produits>
+<category>
+
+<!--invalide pour sequence-->
+    <titre>agroalimentaire</titre>
+    <id>1</id>
+</category>
+<category>
+<!-- valide pour all-->
+    
+    <id>1</id>
+    <titre>Habilles</titre>
+</category>
+
+
+
+
+</produits>

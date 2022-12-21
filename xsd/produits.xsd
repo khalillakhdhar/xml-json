@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<category
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="produits.xsd">
+<!-- Eléments -->
+</category>
+<xsd:element name="category">
+<xsd:complexType>
+<xsd:sequence>
+    <xsd:attribute name="id" type="xsd:int"></xsd:attribute>
+    <xsd:attribute name="titre" type="xsd:string"></xsd:attribute>
+    
+</xsd:sequence>
+
+
+</xsd:complexType>
+
+
+</xsd:element>
+<xsd:element name="taxe" type="xsd:double"></xsd:element>
