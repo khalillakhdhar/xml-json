@@ -2,13 +2,26 @@
 {
     "id":5,
     "prénom":"Jérémy",
-    "nom":"PERROUAULT"
+    "nom":"PERROUAULT",
+    "etat":true,
+    "tel":["062223399","062223399","062223399","062223399"],
+    "formations":[{
+        "titre":"java",
+        "formateur":"Jean",
+        "prix":3900.3
+    },
+    {
+        "titre":"spring",
+        "formateur":"Khalil"
+    }
+]
 
 },
 {
     "id":6,
     "prénom":"Alissa",
-    "nom":"PERROUAULT"
+    "nom":"PERROUAULT",
+    "etat":false
 }
 
 ]
