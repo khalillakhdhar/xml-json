@@ -1,9 +1,23 @@
+<!--l'objet (personnes)-->
 <personnes>
+<!-- l'instance (personne) -->
 <personne>
-
+<!-- les attributs de l'instance1 (id=5)...-->
+<id>5</id>
+<prenom>Jérémy</prenom>
+<nom>PERROUAULT</nom>
 
 
 </personne>
+<!--fin de l'instance 1-->
+<!-- début de l'instance 2-->
+<personne>
+
+<id>6</id>
+<prenom>Allissa</prenom>
+<nom>PERROUAULT</nom>
 
 
+</personne>
+<!--fin de l'instance 2-->
 </personnes>
