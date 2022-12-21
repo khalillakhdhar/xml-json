@@ -1,0 +1,37 @@
+[
+{
+    "id":1,
+    "active":true,
+    "nom":"username1",
+    "prenom":"user1",
+    "telephone":"0020999888",
+    "adresse":[
+        {
+            "rue":"Alexander",
+            "code_postale":4200,
+            "ville":"Tunis"
+        },
+        {
+            "rue":"Ibn Khaldoun",
+            "code_postale":3200,
+            "ville":"Sousse"
+        }
+    ]
+
+},
+{
+    "id":2,
+    "active":true,
+    "nom":"username2",
+    "prenom":"user2",
+    "adresse":[
+        {
+            "rue":"ddd",
+            "code_postale":4200,
+            "ville":"inconnu"
+        }
+      
+    ]
+
+}
+]
