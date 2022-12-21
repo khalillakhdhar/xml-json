@@ -1,0 +1,10 @@
+<!ELEMENT personnes (personne+)>
+<!ELEMENT personne (id,prenom,nom,age*)>
+<!ATTLIST personne id ID #REQUIRED>
+<!ATTLIST personne nom NMTOKEN #REQUIRED>
+<!ATTLIST personne prenom NMTOKEN #REQUIRED>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST age value NMTOKEN  #REQUIRED>

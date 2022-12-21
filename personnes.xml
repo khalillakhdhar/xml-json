@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!DOCTYPE personnes SYSTEM "personnes.dtd">
 <!--l'objet (personnes)-->
 <personnes>
 <!-- l'instance (personne) -->
@@ -20,17 +20,9 @@
 <id>6</id>
 <prenom>Allissa</prenom>
 <nom>PERROUAULT</nom>
-
+<age>16</age>
 
 </personne>
-<personne id="8" nom="Lakhdhar" prenom="Khalil" ></personne>
 <!--possible mais je ne recommande pas-->
 <!--fin de l'instance 2-->
 </personnes>
-<projectname>Hello xml</projectname> <!--balise-->
-<!--element-->
-<globalconfig>
-<version>1.0</version>
-<filesys>NFT</filesys>
-
-</globalconfig>
