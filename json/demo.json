@@ -1,0 +1,18 @@
+[
+{
+   "id":1,
+   "nom":"Lakhdhar" ,
+   "prenom":"Khalil"
+
+},
+{
+    "id":1,
+    "nom":"Lakhdhar" ,
+    "prenom":"Mohamed",
+    "age":45
+ 
+ },
+ {
+    "prix":300
+ }
+]
